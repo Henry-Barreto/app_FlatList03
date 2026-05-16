@@ -1,0 +1,14 @@
+[
+  { "id": "1", "pais": "Brasil", "capital": "Brasília", "populacao": "215 milhões", "bandeira": "🇧🇷" },
+  { "id": "2", "pais": "Argentina", "capital": "Buenos Aires", "populacao": "46 milhões", "bandeira": "🇦🇷" },
+  { "id": "3", "pais": "Chile", "capital": "Santiago", "populacao": "19 milhões", "bandeira": "🇨🇱" },
+  { "id": "4", "pais": "Paraguai", "capital": "Assunção", "populacao": "6,7 milhões", "bandeira": "🇵🇾" },
+  { "id": "5", "pais": "Uruguai", "capital": "Montevidéu", "populacao": "3,4 milhões", "bandeira": "🇺🇾" },
+  { "id": "6", "pais": "Estados Unidos", "capital": "Washington, D.C.", "populacao": "331 milhões", "bandeira": "🇺🇸" },
+  { "id": "7", "pais": "Canadá", "capital": "Ottawa", "populacao": "38 milhões", "bandeira": "🇨🇦" },
+  { "id": "8", "pais": "México", "capital": "Cidade do México", "populacao": "128 milhões", "bandeira": "🇲🇽" },
+  { "id": "9", "pais": "Colômbia", "capital": "Bogotá", "populacao": "51 milhões", "bandeira": "🇨🇴" },
+  { "id": "10", "pais": "Peru", "capital": "Lima", "populacao": "33 milhões", "bandeira": "🇵🇪" },
+  { "id": "11", "pais": "Equador", "capital": "Quito", "populacao": "18 milhões", "bandeira": "🇪🇨" },
+  { "id": "12", "pais": "Venezuela", "capital": "Caracas", "populacao": "28 milhões", "bandeira": "🇻🇪" }
+]
