@@ -5,7 +5,7 @@ import estilos from '../styleSheet/estilos';
 export default function Cabecalho() {
   return (
     <View style={estilos.cabecalho}>
-      <Text style={estilos.cabecalhoTexto}>🌎 Países das Américas</Text>
+      <Text style={estilos.cabecalhoTexto}>Países das Américas</Text>
     </View>
   );
 }
